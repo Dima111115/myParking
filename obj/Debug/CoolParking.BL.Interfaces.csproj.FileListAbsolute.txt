@@ -1,0 +1,7 @@
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\bin\Debug\CoolParking.BL.Interfaces.exe.config
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\bin\Debug\CoolParking.BL.Interfaces.exe
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\bin\Debug\CoolParking.BL.Interfaces.pdb
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\obj\Debug\CoolParking.BL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\obj\Debug\CoolParking.BL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\obj\Debug\CoolParking.BL.Interfaces.exe
+C:\Users\Дима\source\repos\CoolParking.BL.Interfaces\obj\Debug\CoolParking.BL.Interfaces.pdb
